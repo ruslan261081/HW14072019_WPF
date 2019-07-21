@@ -1,0 +1,14 @@
+C:\Users\rosla\source\repos\HW14072019WPF2\HW14072019WPF2\bin\Debug\HW14072019WPF2.exe.config
+C:\Users\rosla\source\repos\HW14072019WPF2\HW14072019WPF2\bin\Debug\HW14072019WPF2.exe
+C:\Users\rosla\source\repos\HW14072019WPF2\HW14072019WPF2\bin\Debug\HW14072019WPF2.pdb
+C:\Users\rosla\source\repos\HW14072019WPF2\HW14072019WPF2\obj\Debug\MainWindow.g.cs
+C:\Users\rosla\source\repos\HW14072019WPF2\HW14072019WPF2\obj\Debug\App.g.cs
+C:\Users\rosla\source\repos\HW14072019WPF2\HW14072019WPF2\obj\Debug\HW14072019WPF2_MarkupCompile.cache
+C:\Users\rosla\source\repos\HW14072019WPF2\HW14072019WPF2\obj\Debug\HW14072019WPF2_MarkupCompile.lref
+C:\Users\rosla\source\repos\HW14072019WPF2\HW14072019WPF2\obj\Debug\MainWindow.baml
+C:\Users\rosla\source\repos\HW14072019WPF2\HW14072019WPF2\obj\Debug\HW14072019WPF2.g.resources
+C:\Users\rosla\source\repos\HW14072019WPF2\HW14072019WPF2\obj\Debug\HW14072019WPF2.Properties.Resources.resources
+C:\Users\rosla\source\repos\HW14072019WPF2\HW14072019WPF2\obj\Debug\HW14072019WPF2.csproj.GenerateResource.cache
+C:\Users\rosla\source\repos\HW14072019WPF2\HW14072019WPF2\obj\Debug\HW14072019WPF2.csproj.CoreCompileInputs.cache
+C:\Users\rosla\source\repos\HW14072019WPF2\HW14072019WPF2\obj\Debug\HW14072019WPF2.exe
+C:\Users\rosla\source\repos\HW14072019WPF2\HW14072019WPF2\obj\Debug\HW14072019WPF2.pdb
